@@ -10,9 +10,14 @@
 ###  Tech Stack
 ![Skills](https://skillicons.dev/icons?i=c,cpp,linux,raspberrypi,stm32,cmake,git,docker,python,ros)
 
-###  Current Projects
-- **FreeRTOS-Scheduler-Analysis**: 深入分析多任务协作架构，解决复杂控制中的周期抖动问题。
-- **Linux-Chassis-Controller**: 实现 Linux 底层驱动与 ROS1 的高效数据交互接口。
+### Current Projects
+
+- [**FreeRTOS-Learning-Notes**](https://github.com/accompany11/FreeRTOS-Learning-Notes): 深入研究内核调度机制。
+  - ✅ 已完成：任务抢占机制实验、PendSV/SysTick 源码逻辑分析。
+  - 🛠 正在进行：信号量与互斥量在底盘控制中的资源锁应用。
+  
+- [**Linux-Chassis-Controller**](https://github.com/accompany11/Linux-Chassis-Controller): 机器人底盘控制系统。
+  - 🚀 目标：实现 Linux 环境下驱动与 ROS1 的高速数据交互，优化底盘控制实时性。
 
 ###  How to reach me
 - **Email:** [qinkailu24@gmail.com]
