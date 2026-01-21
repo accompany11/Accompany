@@ -8,7 +8,7 @@
 - **Hardware:** 熟悉 STM32 / ESP32 / 树莓派等开发平台。
 
 ### 🛠 Tech Stack
-![Skills](https://skillicons.dev/icons?i=c,cpp,linux,raspberrypi,stm32,cmake,git,docker,pyside,ros)
+![Skills](https://skillicons.dev/icons?i=c,cpp,linux,raspberrypi,stm32,cmake,git,docker,python,ros)
 
 ### 📈 Current Projects
 - **FreeRTOS-Scheduler-Analysis**: 深入分析多任务协作架构，解决复杂控制中的周期抖动问题。
