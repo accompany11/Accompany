@@ -7,7 +7,7 @@
 - **Linux Control:** 基于 Linux 的机器人底盘控制，熟悉 PID 算法、串口/CAN 通信及多线程控制架构。
 - **Hardware:** 熟悉 STM32 / ESP32 / 树莓派等开发平台。
 
-### 🛠 Tech Stack
+###  Tech Stack
 ![Skills](https://skillicons.dev/icons?i=c,cpp,linux,raspberrypi,stm32,cmake,git,docker,python,ros)
 
 ###  Current Projects
