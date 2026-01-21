@@ -14,12 +14,6 @@
 - **FreeRTOS-Scheduler-Analysis**: 深入分析多任务协作架构，解决复杂控制中的周期抖动问题。
 - **Linux-Chassis-Controller**: 实现 Linux 底层驱动与 ROS1 的高效数据交互接口。
 
-### 📊 GitHub Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[你的GitHub用户名]&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 How to reach me
 - **Email:** [qinkailu24@gmail.com]
 - **Location:** 中国·[广州]
